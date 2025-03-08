@@ -1,10 +1,28 @@
 # Pertineo
 
-## 🚀 서비스 소개
-### 개요
 **pertineo**는 지원자의 자기소개서, 포트폴리오, 영상 데이터 등 다양한 자료를 AI 기반 자연어 모델로 분석하여, 개인의 **학습 능력(X축)**, **직무 적합성(Y축)**, **수행 역량(Z축)**을 종합 평가하는 혁신적인 솔루션입니다.
 
 기존의 2D 평가(지식 또는 기술 중심)를 넘어 **3D 평가 모델**을 활용하여, 성장 마인드셋, 직무 요구 역량, 프로젝트 수행 능력을 보다 입체적으로 파악할 수 있습니다.
+
+## ✨ 개발진
+
+<table>
+  <tr>
+    <th align="center"><a href="https://github.com/Sam-Ryong"><img src="https://avatars.githubusercontent.com/u/109272099?v=4" width="300px;" alt=""/><br /></a></th>
+    <th align="center"><a href="https://github.com/byeongmin-kwak"><img src="https://avatars.githubusercontent.com/u/71933999?v=4" width="300px;" alt=""/><br /></a></th>
+    <th align="center"><a href="https://github.com/wjkim9653"><img src="https://avatars.githubusercontent.com/u/58078984?v=4" width="300x;" alt=""/><br /></a></th>
+  </tr>
+  <tr>  
+    <th><a href="https://github.com/L2HYUNN"><b>홍승표</b></a></th>
+    <th><a href="https://github.com/daminoworld"><b>곽병민</b></a></th>
+    <th><a href="https://github.com/Sam-Ryong"><b>김원진</b></a></th>
+  </tr>
+  <tr>  
+    <th> Back-End Developer </th>
+    <th> Front-End Developer </th>
+    <th> LLM Engineer </th>
+  </tr>
+</table>
 
 ## ✨ 주요 기능
 - **AI 기반 자동 분석**
