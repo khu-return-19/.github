@@ -1,4 +1,4 @@
-# Pertineo
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Pertineo" />
 
 **pertineo**는 지원자의 자기소개서, 포트폴리오, 영상 데이터 등 다양한 자료를 AI 기반 자연어 모델로 분석하여, 개인의 **학습 능력(X축)**, **직무 적합성(Y축)**, **수행 역량(Z축)** 을 종합 평가하는 혁신적인 솔루션입니다.
 
