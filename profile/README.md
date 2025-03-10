@@ -24,6 +24,25 @@
   </tr>
 </table>
 
+## ✨ 협력
+
+<table>
+  <tr>
+    <th align="center"><a href="https://kr.linkedin.com/in/%EC%96%91%EC%88%98-%EA%B9%80-6a9b601ab"><img src="https://media.licdn.com/dms/image/v2/C5603AQHwDfP6Zce6dQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1591768286062?e=2147483647&v=beta&t=gaNf7Mk0Dmr3srTH3Yy4epcTciVAtlnwloGq36c7SQ8" width="300px;" alt=""/><br /></a></th>
+    <th align="center"><a href=""><img src="https://www.shutterstock.com/image-illustration/blank-man-profile-head-icon-260nw-1902600802.jpg" width="300px;" alt="사진"/><br /></a></th>
+  </tr>
+  <tr>  
+    <th><a href="https://kr.linkedin.com/in/%EC%96%91%EC%88%98-%EA%B9%80-6a9b601ab"><b>김양수</b></a></th>
+    <th><a href=""><b>김효림</b></a></th>
+  </tr>
+  <tr>  
+    <th> TTS커리어그룹 대표 <br>
+      경희대학교 메이커스페이스 오픈랩 책임 연구원  </th>
+    <th> UI/UX 디자이너 </th>
+  </tr>
+</table>
+
+
 ## ✨ 주요 기능
 - **AI 기반 자동 분석**
   - NLP(자연어 처리), 딥러닝 등을 활용하여 자기소개서 및 다양한 데이터를 정량화
