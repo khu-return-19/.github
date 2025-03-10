@@ -13,9 +13,9 @@
     <th align="center"><a href="https://github.com/wjkim9653"><img src="https://avatars.githubusercontent.com/u/58078984?v=4" width="300x;" alt=""/><br /></a></th>
   </tr>
   <tr>  
-    <th><a href="https://github.com/L2HYUNN"><b>홍승표</b></a></th>
-    <th><a href="https://github.com/daminoworld"><b>곽병민</b></a></th>
-    <th><a href="https://github.com/Sam-Ryong"><b>김원진</b></a></th>
+    <th><a href="https://github.com/Sam-Ryong"><b>홍승표</b></a></th>
+    <th><a href="https://github.com/byeongmin-kwak"><b>곽병민</b></a></th>
+    <th><a href="https://github.com/wjkim9653"><b>김원진</b></a></th>
   </tr>
   <tr>  
     <th> Back-End Developer </th>
