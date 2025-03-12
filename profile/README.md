@@ -29,11 +29,11 @@
 <table>
   <tr>
     <th align="center"><a href="https://kr.linkedin.com/in/%EC%96%91%EC%88%98-%EA%B9%80-6a9b601ab"><img src="https://media.licdn.com/dms/image/v2/C5603AQHwDfP6Zce6dQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1591768286062?e=2147483647&v=beta&t=gaNf7Mk0Dmr3srTH3Yy4epcTciVAtlnwloGq36c7SQ8" width="300px;" alt=""/><br /></a></th>
-    <th align="center"><a href=""><img src="https://www.shutterstock.com/image-illustration/blank-man-profile-head-icon-260nw-1902600802.jpg" width="300px;" alt="사진"/><br /></a></th>
+    <th align="center"><a href="https://www.linkedin.com/in/kimhyorim?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://media.licdn.com/dms/image/v2/D4E35AQHJtVETwmgkBg/profile-framedphoto-shrink_400_400/B4EZT9S5wNG0Ac-/0/1739416378687?e=1742353200&v=beta&t=Ry5-_UKcPGi--k232_Eb-fPHRB3anB4hljhjvy6o6vk" width="300px;" alt="사진"/><br /></a></th>
   </tr>
   <tr>  
     <th><a href="https://kr.linkedin.com/in/%EC%96%91%EC%88%98-%EA%B9%80-6a9b601ab"><b>김양수</b></a></th>
-    <th><a href=""><b>김효림</b></a></th>
+    <th><a href="https://www.linkedin.com/in/kimhyorim?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><b>김효림</b></a></th>
   </tr>
   <tr>  
     <th> TTS커리어그룹 대표 <br>
