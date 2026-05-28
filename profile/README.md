@@ -4,25 +4,53 @@
 
 기존의 2D 평가(지식 또는 기술 중심)를 넘어 **3D 평가 모델**을 활용하여, 성장 마인드셋, 직무 요구 역량, 프로젝트 수행 능력을 보다 입체적으로 파악할 수 있습니다.
 
-## ✨ 개발진
-
-
+### 2기
 
 <table>
   <tr>
-    <th align="center"><a href="https://github.com/Sam-Ryong"><img src="https://avatars.githubusercontent.com/u/109272099?v=4" width="300px;" alt=""/><br /></a></th>
-    <th align="center"><a href="https://github.com/byeongmin-kwak"><img src="https://avatars.githubusercontent.com/u/71933999?v=4" width="300px;" alt=""/><br /></a></th>
-    <th align="center"><a href="https://github.com/wjkim9653"><img src="https://avatars.githubusercontent.com/u/58078984?v=4" width="300x;" alt=""/><br /></a></th>
+    <th align="center"><a href="https://github.com/codehuv"><img src="https://avatars.githubusercontent.com/codehuv" width="300px;" alt=""/><br /></a></th>
+    <th align="center"><a href="https://github.com/geon-2"><img src="https://avatars.githubusercontent.com/geon-2" width="300px;" alt=""/><br /></a></th>
+    <th align="center"><a href="https://github.com/Jimmy1020119"><img src="https://avatars.githubusercontent.com/Jimmy1020119" width="300px;" alt=""/><br /></a></th>
   </tr>
-  <tr>  
-    <th><a href="https://github.com/Sam-Ryong"><b>홍승표</b></a></th>
-    <th><a href="https://github.com/byeongmin-kwak"><b>곽병민</b></a></th>
-    <th><a href="https://github.com/wjkim9653"><b>김원진</b></a></th>
+  <tr>
+    <th><a href="https://github.com/codehuv"><b>이규성</b></a></th>
+    <th><a href="https://github.com/geon-2"><b>이건</b></a></th>
+    <th><a href="https://github.com/Jimmy1020119"><b>최장영</b></a></th>
   </tr>
-  <tr>  
-    <th> Back-End Developer </th>
-    <th> Front-End Developer </th>
-    <th> LLM Engineer </th>
+  <tr>
+    <th>AI 개발자</th>
+    <th>프론트</th>
+    <th>AI</th>
+  </tr>
+  <tr>
+    <th align="center"><a href="https://github.com/jun-hwan00"><img src="https://avatars.githubusercontent.com/jun-hwan00" width="300px;" alt=""/><br /></a></th>
+    <th align="center"><a href="https://github.com/kyungrae2002"><img src="https://avatars.githubusercontent.com/kyungrae2002" width="300px;" alt=""/><br /></a></th>
+    <th align="center"><a href="https://github.com/mynameSumin"><img src="https://avatars.githubusercontent.com/mynameSumin" width="300px;" alt=""/><br /></a></th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/jun-hwan00"><b>장준환</b></a></th>
+    <th><a href="https://github.com/kyungrae2002"><b>강경래</b></a></th>
+    <th><a href="https://github.com/mynameSumin"><b>민수민</b></a></th>
+  </tr>
+  <tr>
+    <th>프론트</th>
+    <th>AI</th>
+    <th>프론트</th>
+  </tr>
+  <tr>
+    <th align="center"><a href="https://github.com/sangwookkhu"><img src="https://avatars.githubusercontent.com/sangwookkhu" width="300px;" alt=""/><br /></a></th>
+    <th align="center"><a href="https://github.com/sozerong"><img src="https://avatars.githubusercontent.com/sozerong" width="300px;" alt=""/><br /></a></th>
+    <th align="center"><a href="https://github.com/Yoonhojoon"><img src="https://avatars.githubusercontent.com/Yoonhojoon" width="300px;" alt=""/><br /></a></th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/sangwookkhu"><b>강상욱</b></a></th>
+    <th><a href="https://github.com/sozerong"><b>강경래</b></a></th>
+    <th><a href="https://github.com/Yoonhojoon"><b>윤호준</b></a></th>
+  </tr>
+  <tr>
+    <th>백엔드</th>
+    <th>AI</th>
+    <th>백엔드</th>
   </tr>
 </table>
 
@@ -36,16 +64,22 @@
   <tr>  
     <th><a href="https://kr.linkedin.com/in/%EC%96%91%EC%88%98-%EA%B9%80-6a9b601ab"><b>김양수</b></a></th>
     <th><a href="https://www.linkedin.com/in/kimhyorim?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><b>김효림</b></a></th>
+    <th><b>이선율</b></a></th>
+    <th><b>이수민</b></a></th>
+    
   </tr>
   <tr>  
     <th> TTS커리어그룹 대표 <br>
       경희대학교 메이커스페이스 오픈랩 책임 연구원  </th>
     <th> UI/UX 디자이너 </th>
+    <th> 2기 UI/UX 디자이너 </th>
+    <th> 2기 UI/UX 디자이너 </th>
   </tr>
 </table>
 
 ## ✨ 프로젝트 아키텍쳐
-![Image](https://github.com/user-attachments/assets/9e7f774a-34fe-431f-9ead-d71a92254a24)
+<img width="1910" height="1251" alt="PErtineo drawio (2)" src="https://github.com/user-attachments/assets/c32cce5e-f721-407b-8432-e3ded2cca6c1" />
+
 
 
 ## ✨ 주요 기능
