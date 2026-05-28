@@ -4,6 +4,28 @@
 
 기존의 2D 평가(지식 또는 기술 중심)를 넘어 **3D 평가 모델**을 활용하여, 성장 마인드셋, 직무 요구 역량, 프로젝트 수행 능력을 보다 입체적으로 파악할 수 있습니다.
 
+## ✨ 개발진
+
+### 1기
+
+<table>
+  <tr>
+    <th align="center"><a href="https://github.com/Sam-Ryong"><img src="https://avatars.githubusercontent.com/Sam-Ryong" width="300px;" alt=""/><br /></a></th>
+    <th align="center"><a href="https://github.com/byeongmin-kwak"><img src="https://avatars.githubusercontent.com/byeongmin-kwak" width="300px;" alt=""/><br /></a></th>
+    <th align="center"><a href="https://github.com/wjkim9653"><img src="https://avatars.githubusercontent.com/wjkim9653" width="300px;" alt=""/><br /></a></th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/Sam-Ryong"><b>홍승표</b></a></th>
+    <th><a href="https://github.com/byeongmin-kwak"><b>곽병민</b></a></th>
+    <th><a href="https://github.com/wjkim9653"><b>김원진</b></a></th>
+  </tr>
+  <tr>
+    <th>Back-End Developer</th>
+    <th>Front-End Developer</th>
+    <th>LLM Engineer</th>
+  </tr>
+</table>
+
 ### 2기
 
 <table>
